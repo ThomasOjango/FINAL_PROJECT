@@ -10,7 +10,7 @@ export default function HomePage({ onNavigate }: HomePageProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="text-center mb-16">
           <h1 className="text-5xl sm:text-6xl font-bold text-green-800 mb-6">
-            Zero Hunger Kenya
+            Umoja Hub
           </h1>
           <p className="text-xl sm:text-2xl text-gray-700 mb-8 max-w-3xl mx-auto">
             Together, we can end hunger and ensure access to nutritious food for

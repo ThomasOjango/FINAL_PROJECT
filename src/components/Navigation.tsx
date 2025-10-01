@@ -25,7 +25,7 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
               onClick={() => onNavigate('home')}
               className="text-2xl font-bold hover:text-green-100 transition"
             >
-              🌾 Zero Hunger Kenya
+              🌾 Umoja Hub
             </button>
           </div>
 

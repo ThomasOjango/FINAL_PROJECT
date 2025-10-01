@@ -280,9 +280,9 @@ export default function DonatePage() {
                 <p className="text-sm text-gray-700">
                   <strong>M-Pesa Paybill:</strong> 123456
                   <br />
-                  <strong>Account Number:</strong> ZeroHungerKE
+                  <strong>Account Number:</strong> UmojaHub
                   <br />
-                  <strong>PayPal:</strong> donate@zerohungerke.org
+                  <strong>PayPal:</strong> donate@umojahub.org
                 </p>
               </div>
             )}
